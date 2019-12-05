@@ -44,7 +44,7 @@ bignummul.exe
 
 ![](readme.assets/invalid-input.png)
 
-![](readme.assets/factorial 1300.png)
+![](readme.assets/factorial1300.png)
 
 ![](readme.assets/1300-2.png)
 
